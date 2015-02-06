@@ -1,0 +1,1 @@
+This repo is for Rails Performance - What You Need To Know by Alexander Dymo. And it's one of the first ever git backed AirPair posts :{}
